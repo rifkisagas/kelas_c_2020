@@ -1,0 +1,5 @@
+git branch -> percabangan suatu file yang di version control
+git merge -> pergabungan banyak branch ke satu file
+	konflik dapat terjadi bila file 1 dan file 2 tidak singkron saat hendak melakukan merge.
+
+folder project -> git init -> git add -> git commit -n "First init" -> git push
